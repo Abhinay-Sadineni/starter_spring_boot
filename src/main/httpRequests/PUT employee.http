@@ -1,0 +1,8 @@
+PUT localhost:8081/employees/3
+Content-Type: application/json
+
+{
+  "id": "3",
+  "name":"",
+  "role": "Head Gardner"
+}
